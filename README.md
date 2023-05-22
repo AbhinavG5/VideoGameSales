@@ -11,3 +11,5 @@ This system enables companies to identify profitable game genres, analyze sales 
 ## Python Visualisation
 ![VSP Top Sold Games](https://github.com/AbhinavG5/VideogGameSales/assets/91477390/4526c7c9-5b17-47a1-8a61-06b9c57e65d9)
 ![VSP Global Sales by Genre](https://github.com/AbhinavG5/VideogGameSales/assets/91477390/9bf4afe0-aa8c-4307-99a9-2914b4e81ba3)
+
+DataSet by GREGORYSMITH [https://www.kaggle.com/datasets/gregorut/videogamesales]
