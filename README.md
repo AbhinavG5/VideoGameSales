@@ -1,5 +1,5 @@
 # Video Games Sales (Data Analysis Project)
-I developed a project using Python and Tableau for analyzing and visualizing video game sales data. Python's data manipulation capabilities allowed for accurate analysis of large datasets, while Tableau's interactive visualizations provided clear representations of key metrics and trends. 
+I developed a project using Python and Tableau for analyzing and visualizing video game sales data. Python's data manipulation and data cleaning capabilities allowed for accurate analysis of large datasets, while Tableau's interactive visualizations provided clear representations of key metrics and trends. 
 
 This system enables companies to identify profitable game genres, analyze sales across regions, understand customer preferences, and track marketing campaign success. By leveraging data-driven insights, businesses can optimize their offerings, allocate resources efficiently, and enhance their competitiveness in the gaming industry.
 
